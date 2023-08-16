@@ -6,6 +6,7 @@ Uses ML5 js.
 
 Find sample implementation here
 Link to view on code sandbox: https://ixr71r.csb.app/
+<br>
 
 Show your face or common objects to the camera to view predictions.
 
